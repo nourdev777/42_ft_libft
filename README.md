@@ -1,7 +1,7 @@
-# 42_ft_libft 📚
+# 42_Libft 📚
 
 ## 🌟 About the Project
-`42_ft_libft` is my custom C library, built from scratch during the **42 Abu Dhabi Common Core**. I recreated essential C standard functions and added unique utilities to create a solid foundation for my future 42 projects.
+`42_Libft` is my custom C library, built from scratch during the **42 Abu Dhabi Common Core**. I recreated essential C standard functions and added unique utilities to create a solid foundation for my future 42 projects.
 
 ## 🛠️ Features
 
@@ -40,7 +40,7 @@ Extra list manipulation functions:
 
 1. **Clone the repo:**  
    ```bash
-   git clone https://github.com/nourdev777/42_ft_libft.git
+   git clone https://github.com/nourdev777/42_Libft.git
    ```
 
 2. **Compile the library:**  
@@ -69,7 +69,7 @@ Extra list manipulation functions:
 - Understanding the inner workings of standard functions.  
 
 ## 📜 Original Task
-See the full assignment [here](https://github.com/nourdev777/42_ft_libft/blob/master/libft_assignment.pdf).
+See the full assignment [here](https://github.com/nourdev777/42_Libft/blob/master/libft_assignment.pdf).
 
 ---
 
