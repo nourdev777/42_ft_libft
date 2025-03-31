@@ -69,7 +69,7 @@ Extra list manipulation functions:
 - Understanding the inner workings of standard functions.  
 
 ## 📜 Original Task
-See the full assignment [here]([https://github.com/nourdev777/42_ft_libft/libft_assignment.pdf](https://github.com/nourdev777/42_ft_libft/blob/master/libft_assignment.pdf)).
+See the full assignment [here](https://github.com/nourdev777/42_ft_libft/blob/master/libft_assignment.pdf).
 
 ---
 
