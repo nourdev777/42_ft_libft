@@ -56,7 +56,7 @@ Extra list manipulation functions:
      make fclean
      ```
 
-3. **Include it in your project:**  
+3. **Include it:**  
    ```c
    #include "libft.h"
    ```
